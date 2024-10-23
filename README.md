@@ -15,15 +15,15 @@
 ![doctor snap](https://github.com/sumitkumar1503/librarymanagement/blob/master/static/screenshots/bookissued.png?raw=true)
 --- -->
 ## Functions
-### Admin
-- Create Admin account and Login.
+### librarian
+- Create librarian account and Login.
 - Can Add, View, Book
-- Can Issue Book (added by Admin) to registered student.
+- Can Issue Book (added by librarian) to registered student.
 - Can view Issued book with issued date and expiry date.
 - Can view Fine (10 rupees for each day after expiry date).
-- Can View Students that are registered into system.
+- Can View member that are registered into system.
 
-### Student
+### member
 - Create account and Login.
 - Can view their issued book only with expiry date and fine(if there any otherwise 0)
 ---
@@ -55,6 +55,6 @@ EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 ```
 
 ## Drawbacks/LoopHoles
-- Anyone can be Admin.
+- Anyone can be librarian.
 
 
