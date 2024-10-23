@@ -1,7 +1,7 @@
 # Library Management
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Navya%20shree-red)
 
----
+<!-- ---
 ## screenshots
 ### Homepage
 ![homepage snap](https://github.com/sumitkumar1503/librarymanagement/blob/master/static/screenshots/homepage.png?raw=true)
@@ -13,7 +13,7 @@
 ![doctor snap](https://github.com/sumitkumar1503/librarymanagement/blob/master/static/screenshots/issuebook.png?raw=true)
 ### Issued Book
 ![doctor snap](https://github.com/sumitkumar1503/librarymanagement/blob/master/static/screenshots/bookissued.png?raw=true)
----
+--- -->
 ## Functions
 ### Admin
 - Create Admin account and Login.
